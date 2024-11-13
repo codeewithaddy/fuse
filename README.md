@@ -38,6 +38,7 @@ The fuse Project aims to create a digital whiteboard application that allows use
     npm run dev
     ```
 
+
 4. **Build the project:**
     ```bash
     npm run build
@@ -85,7 +86,7 @@ Thanks to everyone who has contributed to this project!
 
 # Fuse
 
-Whiteboard application for digital collaboration.
+Whiteboard application for digital collaboration
 
 
 ---
