@@ -80,7 +80,7 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
-Thanks to everyone who has contributed to this project!
+Thanks to everyone who has contributed to this project!!
 
 ---
 
