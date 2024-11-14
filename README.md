@@ -86,7 +86,7 @@ Thanks to everyone who has contributed to this project!!
 
 # Fuse
 
-Whiteboard application for digital collaboration
+Whiteboard application for digital collaboration.
 
 
 ---
