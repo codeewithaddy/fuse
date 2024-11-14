@@ -38,6 +38,7 @@ The fuse Project aims to create a digital whiteboard application that allows use
     npm run dev
     ```
 
+
 4. **Build the project:**
     ```bash
     npm run build
@@ -79,13 +80,13 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
-Thanks to everyone who has contributed to this project!
+Thanks to everyone who has contributed to this project!!
 
 ---
 
 # Fuse
 
-Whiteboard application for digital collaboration.
+Whiteboard application for digital collaboration
 
 
 ---
