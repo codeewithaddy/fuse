@@ -65,7 +65,7 @@ The fuse Project aims to create a digital whiteboard application that allows use
 
 - `dev`: Runs the development server with `nodemon` for hot-reloading.
 - `dev:client`: Runs the client-side code with `ts-node`.
-- `build:server`: Compiles the server-side TypeScript code.
+- `build:server`: Compiles the server-side TypeScript code
 - `build:next`: Builds the Next.js application.
 - `build`: Runs all build-related scripts.
 - `start`: Sets the `NODE_ENV` to production and starts the server.
