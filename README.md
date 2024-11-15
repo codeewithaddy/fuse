@@ -77,7 +77,7 @@ The fuse Project aims to create a digital whiteboard application that allows use
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details
 
 ## Acknowledgments
 Thanks to everyone who has contributed to this project!!
